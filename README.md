@@ -37,11 +37,11 @@
 - Unofficial Github API
 - KodePos API
 - News API
-- KBBI Api
+- KBBI Ap
 - Hilih Generator
 - Fakename Generator
 - Short Link Generator
 - Cek IP API
 ```
 ### Source Code
-Mau Source Code Nya? Code Sendiri Lah ! Minta Mulu !
+
